@@ -2,6 +2,6 @@
 .global main
 main:
   mov rax, 5
-  add rax, 21
-  sub rax, 4
+  add rax, 44
+  sub rax, 8
   ret
